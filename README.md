@@ -34,7 +34,9 @@
   🔹 Python Pytest ile 3 adet test senaryosu yapılmıştır.
   
 5. Hafta 👾:
+
   -Homework 1
   🔹 Java, Appium ile Gratis Mobil Uygulaması üzerinde testler yapılmıştır.
+  
   -Homework 2
   🔹 Java, Appium ile Gratis Mobil Uygulaması üzerinde BDD testler yapılmıştır.

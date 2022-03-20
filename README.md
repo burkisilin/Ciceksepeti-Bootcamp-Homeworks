@@ -1,6 +1,6 @@
 # BurakBayramoglu_Homework
 
-Works done within the Ciceksepeti Test Automation Bootcamp
+Works that I've done within the Ciceksepeti Test Automation Bootcamp
 
 
 1. Hafta 🎉:

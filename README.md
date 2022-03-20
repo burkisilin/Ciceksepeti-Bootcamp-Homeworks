@@ -1,5 +1,3 @@
-# BurakBayramoglu_Homework
-
 Works that I've done within the Ciceksepeti Test Automation Bootcamp
 
 
